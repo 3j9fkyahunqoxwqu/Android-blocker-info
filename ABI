@@ -1,5 +1,6 @@
 ### Facebook related ###
 com.facebook.FacebookActivity
+com.facebook.ads.InterstitialAdActivity
 com.spotify.mobile.android.ui.activity.FacebookPlaceholderActivity
 com.spotify.mobile.android.ui.activity.FacebookWebPermissionActivity
 
