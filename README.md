@@ -1,17 +1,19 @@
 # Android-blocker-info
-ABI is designed to explain what you can block an what not
+ABI is designed to explain what you can block and which stuff you better not touch.
 
 
 This information is designed to help app developer or use it for own purchases. It's designed to explain everything about advertisments or talk about the ethical reasons to do or not to do but I hope it may helps some people. 
 
+There exist a lot of wannabe apps which claiming to reduce the battery life, this is all bullshit, they apps also needs to be running all the time to monitor every single activity, this can be a lot of easier done. I not say these apps are not easy for beginners, but easier not means it's the best you could use.
 
-Benefits over a firewall?
+
+**Benefits over a firewall?**
 * Mostly none except that it reduce the traffic by itself, by intercepting the activitys directly.
 * Battery life.
 * More control.
 
 
-Problems?
+**Problems?**
 * The app may crash.
 * The app may shows an placeholder with an missing activity which would normally show an ad exactly on this place.
 
