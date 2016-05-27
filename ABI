@@ -1,0 +1,24 @@
+### Facebook related ###
+com.facebook.FacebookActivity
+com.spotify.mobile.android.ui.activity.FacebookPlaceholderActivity
+com.spotify.mobile.android.ui.activity.FacebookWebPermissionActivity
+
+
+### Ads related ###
+com.google.android.gms.ads.AdActivity
+com.spotify.mobile.android.spotlets.ads.BannerActivity
+
+
+### Google Tracking ###
+com.google.android.gms.measurement.AppMeasurementContentProvider
+com.google.android.gms.measurement.AppMeasurementContentReciever
+com.google.android.gms.analytics.CampaigntrackingService
+
+
+### Android Wear ###
+notification.AndroidWear
+
+
+### In-App (IAP) ###
+com.google.android.gms.ads.purchase.InAppPurchaseActivity
+
