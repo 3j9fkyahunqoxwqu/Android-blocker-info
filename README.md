@@ -14,8 +14,8 @@ Example:
 
 **Benefits over a firewall?**
 * Mostly none except that it reduce the traffic by itself, by intercepting the activitys directly.
+* More control, less ads and less adware.
 * Battery life.
-* More control, less ads and traffic.
 
 
 **Problems?**
