@@ -15,13 +15,13 @@ Example:
 **Benefits over a firewall?**
 * Mostly none except that it reduce the traffic by itself, by intercepting the activitys directly.
 * Battery life.
-* More control.
+* More control, less ads and traffic.
 
 
 **Problems?**
-* The app may crash.
+* The app may crash. But it should be no problem since you can at any time re-start the activity.
 * The app may shows an placeholder with an missing activity which would normally show an ad exactly on this place.
-* A global based solutions is difficult to implement. I might think about an app to do this, which after everything is done shutdown, but the problem is that it would require an per-app and global wide API to control certain conditions. It's a lot of work.
+* A global based solutions is difficult to implement. I might think about an app to do this, which after everything is done shutdown, but the problem is that it would require an per-app and global wide API to control certain conditions. It's a lot of work, it's unclear if the names not getting obfuscated if this method hits the mass.
 
 
 
