@@ -9,6 +9,7 @@ There exist a lot of wannabe apps which claiming to reduce the battery life, thi
 This is the best (I really mean best) solution for battery life and security you could get without destroying much or using alternative apps.
 
 Example:
+* com.facebook.FacebookActivity
 
 
 **Benefits over a firewall?**
@@ -20,9 +21,8 @@ Example:
 **Problems?**
 * The app may crash.
 * The app may shows an placeholder with an missing activity which would normally show an ad exactly on this place.
-
-Examples:
-
+* A global based solutions is difficult to implement. I might think about an app to do this, which after everything is done shutdown, but the problem is that it would require an per-app and global wide API to control certain conditions. It's a lot of work.
 
 
-This project is in beta stage ! 
+
+## This project is in beta stage ! 
