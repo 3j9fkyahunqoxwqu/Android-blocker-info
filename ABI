@@ -15,6 +15,10 @@ com.google.android.gms.measurement.AppMeasurementContentReciever
 com.google.android.gms.analytics.CampaigntrackingService
 
 
+### IMMOBI tracking ###
+com.immobi.commons.analytics.androidsdk.IMAdTrackerReceiver
+
+
 ### Android Wear ###
 notification.AndroidWear
 
