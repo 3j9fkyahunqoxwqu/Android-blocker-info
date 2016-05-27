@@ -24,5 +24,13 @@ Example:
 * A global based solutions is difficult to implement. I might think about an app to do this, which after everything is done shutdown, but the problem is that it would require an per-app and global wide API to control certain conditions. It's a lot of work, it's unclear if the names not getting obfuscated if this method hits the mass.
 
 
+**ToDO:**
+* Detailed guide to submit feedback with pictures
+* A method to do this without 3C Toolbox via terminal (it's already done but I need to change some steps)
+* Possible think about an app which can all do this? See problems. 
+* Spelling and grammar - of course my biggest weakness.
+* Give more details about the goal and about the app situations on e.g. newer Android versions, since you can also restrict permission in general.
+
+
 
 ## This project is in beta stage ! 
