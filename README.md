@@ -1,4 +1,4 @@
-# Android-blocker-info
+# Android Blocker Info
 ABI is designed to explain what you can block and which stuff you better not to touch.
 
 
