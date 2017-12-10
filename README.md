@@ -1,6 +1,9 @@
 # Android Blocker Info
 ABI is designed to explain what you can block and which stuff you better not to touch.
 
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/FZeven)
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CHEF-KOCH)
+[![Discord](https://discordapp.com/api/guilds/204394292519632897/widget.png)](https://discord.me/NVinside)
 
 This information is designed to help app developer or use it for own purchases. It's designed to explain everything about advertisments or talk about the ethical reasons to do or not to do but I hope it may helps some people. 
 
